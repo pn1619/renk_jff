@@ -1,0 +1,1 @@
+../build-Debug/rock_scissor_papper/rock_scissor_papper.c.o ../build-Debug/rock_scissor_papper/reverse.c.o ../build-Debug/rock_scissor_papper/main.c.o

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="c_workspaces_041925" Database="" Version="10000">
+  <Project Name="project_1" Path="project_1/project_1.project" Active="No"/>
+  <Project Name="rock_scissor_papper" Path="rock_scissor_papper/rock_scissor_papper.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="project_1" ConfigName="Debug"/>
+      <Project Name="rock_scissor_papper" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="project_1" ConfigName="Release"/>
+      <Project Name="rock_scissor_papper" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
